@@ -17,13 +17,11 @@ We have found that kinases downstream of environmental signaling pathways activa
 
 Anja Armache et al.2020  
 **Histone H3.3 phosphorylation amplifies stimulation-induced transcription**  
-Nat. doi: https://doi.org/10.1038/s41586-020-2533-0 [[pubmed][1]]
-[1]: https://www.nature.com/articles/s41586-020-2533-0
+Nat. doi: https://doi.org/10.1038/s41586-020-2533-0 [[pubmed]](https://www.nature.com/articles/s41586-020-2533-0)
 
 Josefowicz SZ, Shimada M, Armache A, Li CH, Miller RM, Lin S, Yang A, Dill BD, Molina H, Park H-S et al.  2016.  
 **Chromatin Kinases Act on Transcription Factors and Histone Tails in Regulation of Inducible Transcription.**  
-Mol Cell. 64(2):347-361. [[pubmed][1]]
-[1]: https://www.ncbi.nlm.nih.gov/pubmed/27768872
+Mol Cell. 64(2):347-361. [[pubmed]](https://www.ncbi.nlm.nih.gov/pubmed/27768872)
 
 ### MOUSE MODELS FOR FUNCTIONAL HISTONE GENETICS
 
