@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [staff](#staff) [students](#students), [alumni](#alumni) [Former visitors](#former visitors).
+Jump to [staff](#staff), [students](#students), [alumni](#alumni), [Former visitors](#former visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
