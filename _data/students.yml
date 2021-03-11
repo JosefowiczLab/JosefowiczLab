@@ -19,7 +19,7 @@
   education4:
 
 - name: Andrew Daman
-  photo: andrew.jpg
+  photo: andrew.png
   info: IMP Graduate Student
   email: awd2001@med.cornell.edu
   number_educ: 1
@@ -27,7 +27,7 @@
 
 
 - name: Dughan Ahimovic
-  photo: dughan.jpg
+  photo: dughan.png
   info: IMP Graduate Student
   email: dja4001@med.cornell.edu
   number_educ: 1
@@ -35,7 +35,7 @@
 
 
 - name: Gayathri Shibu
-  photo: gaya.jpg
+  photo: gaya.png
   info: Rotation student
   email: gas2017@med.cornell.edu
   number_educ: 3
