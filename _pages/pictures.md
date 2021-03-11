@@ -47,11 +47,6 @@ Jump to: [Gallery](#gallery)
 
 <p> &nbsp; </p>
 
-First advertisement.
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
-</figure>
-
 
 ## 2019
 <figure>
