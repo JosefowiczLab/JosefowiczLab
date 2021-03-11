@@ -1,4 +1,4 @@
-  - title: "Histone H3.3 phosphorylation amplifies stimulation-induced transcription"
+- title: "Histone H3.3 phosphorylation amplifies stimulation-induced transcription"
   image: armche2020.png
   description: 
   authors: Anja Armache* et al.
@@ -8,7 +8,7 @@
   highlight: 1
   news2:
 
-  - title: "Gene regulatory networks STARR-ing B cells"
+- title: "Gene regulatory networks STARR-ing B cells"
   image: dummy.png
   description: 
   authors: Alexia Martinez de Paz*, Steven Zvi Josefowicz*
@@ -18,7 +18,7 @@
   highlight: 1
   news2:
 
-  - title: "Chromatin Kinases Act on Transcription Factors and Histone Tails in Regulation of Inducible Transcription"
+- title: "Chromatin Kinases Act on Transcription Factors and Histone Tails in Regulation of Inducible Transcription"
   image: dummy.png
   description: 
   authors: Josefowicz SZ*, Shimada M, Armache A, Li CH, Miller RM, Lin S, Yang A, Dill BD, Molina H, Park H-S et al.
@@ -28,7 +28,7 @@
   highlight: 1
   news2:
 
-  - title: "Greater Than the Sum of Parts: Complexity of the Dynamic Epigenome."
+- title: "Greater Than the Sum of Parts: Complexity of the Dynamic Epigenome."
   image: dummy.png
   description: 
   authors: Soshnev AA, Josefowicz SZ*, C Allis D.
@@ -38,7 +38,7 @@
   highlight: 1
   news2:
 
-  - title: "Regulators of chromatin state and transcription in CD4 T-cell polarization"
+- title: "Regulators of chromatin state and transcription in CD4 T-cell polarization"
   image: dummy.png
   description: 
   authors: Josefowicz SZ*.
@@ -48,7 +48,7 @@
   highlight: 1
   news2:
 
-  - title: "Extrathymic generation of regulatory T cells in placental mammals mitigates maternal-fetal conflict"
+- title: "Extrathymic generation of regulatory T cells in placental mammals mitigates maternal-fetal conflict"
   image: dummy.png
   description: 
   authors: Samstein RM, Josefowicz SZ, Arvey A, Treuting PM, Rudensky AY.
@@ -58,7 +58,7 @@
   highlight: 1
   news2:
 
-  - title: "Foxp3 exploits a pre-existent enhancer landscape for regulatory T cell lineage specification."
+- title: "Foxp3 exploits a pre-existent enhancer landscape for regulatory T cell lineage specification."
   image: dummy.png
   description: 
   authors: Samstein RM, Arvey A, Josefowicz SZ, Peng X, Reynolds A, Sandstrom R, Neph S, Sabo P, Kim JM, Liao W et al.
@@ -68,7 +68,7 @@
   highlight: 1
   news2:
 
-    - title: "Extrathymically generated regulatory T cells control mucosal TH2 inflammation."
+- title: "Extrathymically generated regulatory T cells control mucosal TH2 inflammation."
   image: dummy.png
   description: 
   authors: Josefowicz SZ*, Niec RE, Kim HY, Treuting P, Chinen T, Zheng Y, Umetsu DT, Rudensky AY.
@@ -78,7 +78,7 @@
   highlight: 1
   news2:
 
-  - title: "Regulatory T cells: mechanisms of differentiation and function."
+- title: "Regulatory T cells: mechanisms of differentiation and function."
   image: dummy.png
   description: 
   authors: Josefowicz SZ*, Lu L-F, Rudensky AY.
@@ -88,7 +88,7 @@
   highlight: 1
   news2:
 
-  - title: "Role of conserved non-coding DNA elements in the Foxp3 gene in regulatory T-cell fate."
+- title: "Role of conserved non-coding DNA elements in the Foxp3 gene in regulatory T-cell fate."
   image: dummy.png
   description: 
   authors: Zheng Y, Josefowicz S, Chaudhry A, Peng XP, Forbush K, Rudensky AY.
@@ -99,7 +99,7 @@
   news2:
 
 
-  - title: "Control of regulatory T cell lineage commitment and maintenance."
+- title: "Control of regulatory T cell lineage commitment and maintenance."
   image: dummy.png
   description: 
   authors: Josefowicz SZ, Rudensky A.
@@ -110,7 +110,7 @@
   news2:
 
 
-  - title: "Cutting edge: TCR stimulation is sufficient for induction of Foxp3 expression in the absence of DNA methyltransferase 1."
+- title: "Cutting edge: TCR stimulation is sufficient for induction of Foxp3 expression in the absence of DNA methyltransferase 1."
   image: dummy.png
   description: 
   authors: Josefowicz SZ, Wilson CB, Rudensky AY.
@@ -120,7 +120,7 @@
   highlight: 1
   news2:
 
-  - title: "Genome-wide analysis of Foxp3 target genes in developing and mature regulatory T cells."
+- title: "Genome-wide analysis of Foxp3 target genes in developing and mature regulatory T cells."
   image: dummy.png
   description: 
   authors: Zheng Y, Josefowicz SZ, Kas A, Chu T-T, Gavin MA, Rudensky AY. 
