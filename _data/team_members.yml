@@ -8,12 +8,42 @@
 # education3:
 #  education4:
 
-- name: "Jin Gyu Cheong"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: "jic2016@med.cornell.edu"
-  number_educ: 0
-  education1:
+- name: Steven Josefowicz, PhD
+  photo: Steve.png
+  info: Principle Investigator
+  email: szj2001@med.cornell.edu
+  number_educ: 2
+  education1: Steven Josefowicz is an Assistant Professor in the Department of Pathology and Laboratory Medicine, Division of Experimental Pathology. Steven has appointments in the Immunology and Microbial Pathogenesis (IMP) Program and the Physiology, Biophysics, and Systems Biology (PBSB) Program. After a BA from UC Berkeley and three years as a research tech working in the area of human immunology and HIV at UCSF, Steve conducted his graduate work with Alexander Rudensky at the University of Washington and Memorial Sloan Kettering Cancer Center. His PhD work focused on mechanisms of immune tolerance and the differentiation and function of regulatory T cells-- how our powerful immune systems can so effectively combat pathogens while tolerating our own tissues, food, and commensal microbiota. He then joined the laboratory of C. David Allis at The Rockefeller University to study epigenetic mechanisms underlying cellular differentiation and stimulation events in the immune system. Joining Weill Cornell Medicine in May 2017, ongoing work in his lab combines the fields of epigenetics and immunology to focus on questions of epigenetic regulation of transcription, especially as it pertains to rapid cellular responses, namely immune cell responses to stimulatory cues. The goal is to reveal fundamental epigenetic mechanisms regulating inflammation and their activity in pediatric and adult inflammatory disease.
+  education2: <a href="https://ceyda-durmaz-g9ww.squarespace.com/s/Josefowicz_Biosketch_201706.pdf">biosketch</a> 
+  education3:
+  education4:
+
+- name: Alexia Martinez de Paz, PhD
+  photo: alexia.png
+  info: Postdoctorate Fellow
+  email: alm2806@med.cornell.edu
+  number_educ: 1
+  education1: Alexia joined the lab in April, 2018 after completing her PhD thesis at the University of Barcelona, Spain, and a short postdoctoral training at the University of Victoria, Canada. During that time, she was studying different mechanisms of epigenetic regulation, such as DNA and histone methylation, with especial interest in chromatin and transcriptional dynamics of neurons upon receiving activation signals or circadian cues. In the Josefowicz lab, Alexia is studying epigenetic mechanisms and chromatin structural changes controlling transcription in the immune response and their dysregulation in cancer.
+  education2:
+  education3:
+  education4:
+
+- name: Arjun Ravishankar
+  photo: arjun.png
+  info: Postdoctoral Associate
+  email: arr2016@med.cornell.edu
+  number_educ: 2
+  education1: MBBS - Delhi University, Delhi, India
+  education2: Arjun got his MD from Delhi University, India and briefly worked as a doctor in Delhi. He joined the Josefowicz Lab in June 2018 to explore the world of Basic Science research. He was planning to stay for a year but liked it so much, he decided to stay an extra year! He is studying the function of histone mutations in hematopoiesis and hematological malignancies, and plans to begin his Residency in Internal Medicine in July 2020.
+  education3:
+  education4:
+
+- name: "Lexi"
+  photo: lexi.png
+  info: Research Technician, Lab Manager
+  email: ler3006@med.cornell.edu
+  number_educ: 1
+  education1: Lexi Robbins is a recent graduate from Albright College with a BS in Biology. She joined the J-Lab in June of 2017 as research technician and lab manager. Lexi is on the road to a life in medicine as she prepares to apply to medical school and become a physician.
   education2:
   education3:
   education4:
