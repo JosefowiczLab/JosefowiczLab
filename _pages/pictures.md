@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Josefowicz Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Josefowicz Lab -- Pictures"
 permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
+Jump to: [Gallery](#gallery)
 
 #### Gallery
 (Right-click *'view image'* to see a larger image.)
