@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff) [Students](#Students), [alumni](#alumni), [administrative support](#administrative-support), [Former visitors](#Former visitors).
+Jump to [staff](#staff) [students](#students), [alumni](#alumni) [Former visitors](#former visitors).
 
 ## Staff
 {% assign number_printed = 0 %}
