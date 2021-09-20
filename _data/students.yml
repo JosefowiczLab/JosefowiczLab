@@ -34,12 +34,17 @@
   education1: Dughan grew up in the beautiful state of New Jersey and went on to receive a B.S. in Biomedical Engineering from Yale University. He then spent two years working in biotech before deciding to attend Weill Cornell’s IMP Program for graduate school. Dughan joined the Josefowicz Lab in June 2019 to study the function of histone modifications in rapid stimulation-induced gene expression and other epigenetically regulated processes in mammalian immunity.
 
 
-- name: Gayathri Shibu
-  photo: gaya.png
-  info: Rotation student
-  email: gas2017@med.cornell.edu
-  number_educ: 2
-  education1: M.Eng. Biomedical Engineering (Cornell University)
-  education2: B.Tech. Bioengineering (VIT University)
-  education3: 
-  education4:
+- name: Chenyang Jiang
+  photo: Chenyang.JPG
+  info: BCMB Graduate Student
+  email: chj4004@med.cornell.edu
+  number_educ: 1
+  education1: Chenyang received her B.S. in biological sciences from Sichuan University and M.S. in pathobiology from University of Connecticut. After graduation, she worked as a research assistant for three years at Ragon Institute of MGH, MIT and Harvard and Brigham and Women’s Hospital to study HIV/AIDS by developing and applying novel genetic and epigenetic tools to characterize viral reservoirs in HIV-1 elite controllers. Chenyang joined the Josefowicz Lab in July 2021 to investigate epigenetic regulation of transcription in rapid stimulation-induced immune cell responses.
+  
+  
+  - name: Michael Bale
+  photo: Michael.JPG
+  info: IMP Graduate Student
+  email: mib4004@med.cornell.edu
+  number_educ: 1
+  education1: 
