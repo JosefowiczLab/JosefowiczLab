@@ -1,6 +1,86 @@
+- title:
+  image: dummy.png
+  description:
+  authors:
+  link:
+    url:
+    display:
+  highlight: 1
+  news2:
+
+- title: "Microbial cancer immunotherapy reprograms hematopoiesis to enhance anti-tumor immunity"
+  image: dummy.png
+  description:
+  authors: Andrew W. Daman, Anthony Claude Antonelli, Gil Redelman-Sidi, et al.
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2024.03.21.586166v2
+    display: bioRxiv. 2024
+  highlight: 1
+  news2:
+
+- title: "The potency of hematopoietic stem cell reprogramming for changing immune tone"
+  image: dummy.png
+  description:
+  authors: Andrew W. Daman, Jin-Gyu Cheong, Laura Berneking, Steven Z. Josefowicz
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/imr.13335
+    display: Immunol Rev. 2024
+  highlight: 1
+  news2:
+
+- title: "Antiviral innate immune memory in alveolar macrophages following SARS-CoV-2 infection"
+  image: dummy.png
+  description:
+  authors: Alexander Lercher, Jin-Gyu Cheong, Chenyang Jiang, et al.
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.11.24.568354v1
+    display: bioRxiv. 2023
+  highlight: 1
+  news2:
+
+- title: "Epigenetic memory of coronavirus infection in innate immune cells and their progenitors"
+  image: dummy.png
+  description:
+  authors: Jin-Gyu Cheong, Arjun Ravishankar, Siddhartha Sharma, et al.
+  link:
+    url: https://www.cell.com/cell/abstract/S0092-8674(23)00796-1
+    display: Cell. 2023
+  highlight: 1
+  news2:
+
+- title: "Epigenetic and transcriptional control of interferon-β"
+  image: dummy.png
+  description:
+  authors: Andrew W. Daman, Steven Z. Josefowicz
+  link:
+    url: https://doi.org/10.1084/jem.20210039
+    display: J Exp Med. 2021
+  highlight: 1
+  news2:
+
+- title: "Signaling-to-chromatin pathways in the immune system"
+  image: dummy.png
+  description:
+  authors: Alexia Martinez de Paz, Steven Zvi Josefowicz
+  link:
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/imr.12955
+    display: Immunol Rev. 2021
+  highlight: 1
+  news2:
+
+- title: "A histone code for inducible transcription in immune responses"
+  image: dummy.png
+  description:
+  authors: Alexia Martinez de Paz, Wendy Beguelin, Merve Sahin et al.
+  link:
+    url: https://doi.org/10.4049/jimmunol.204.Supp.151.8
+    display:  J Immunol. 2020
+  highlight: 1
+  news2:
+
 - title: "Histone H3.3 phosphorylation amplifies stimulation-induced transcription"
   image: armche2020.png
-  description: 
+  description:
   authors: Anja Armache* et al.
   link:
     url: https://doi.org/10.1038/s41586-020-2533-0
@@ -10,7 +90,7 @@
 
 - title: "Gene regulatory networks STARR-ing B cells"
   image: dummy.png
-  description: 
+  description:
   authors: Alexia Martinez de Paz*, Steven Zvi Josefowicz*
   link:
     url: https://doi.org/10.1038/s41590-019-0566-z
@@ -20,7 +100,7 @@
 
 - title: "Chromatin Kinases Act on Transcription Factors and Histone Tails in Regulation of Inducible Transcription"
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ*, Shimada M, Armache A, Li CH, Miller RM, Lin S, Yang A, Dill BD, Molina H, Park H-S et al.
   link:
     url: ttps://www.ncbi.nlm.nih.gov/pubmed/27768872
@@ -30,7 +110,7 @@
 
 - title: "Greater Than the Sum of Parts: Complexity of the Dynamic Epigenome."
   image: dummy.png
-  description: 
+  description:
   authors: Soshnev AA, Josefowicz SZ*, C Allis D.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27259201
@@ -40,7 +120,7 @@
 
 - title: "Regulators of chromatin state and transcription in CD4 T-cell polarization"
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ*.
   link:
     url: https://doi.org/10.1038/s41586-020-2533-0
@@ -50,7 +130,7 @@
 
 - title: "Extrathymic generation of regulatory T cells in placental mammals mitigates maternal-fetal conflict"
   image: dummy.png
-  description: 
+  description:
   authors: Samstein RM, Josefowicz SZ, Arvey A, Treuting PM, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22770213
@@ -60,7 +140,7 @@
 
 - title: "Foxp3 exploits a pre-existent enhancer landscape for regulatory T cell lineage specification."
   image: dummy.png
-  description: 
+  description:
   authors: Samstein RM, Arvey A, Josefowicz SZ, Peng X, Reynolds A, Sandstrom R, Neph S, Sabo P, Kim JM, Liao W et al.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/23021222
@@ -70,7 +150,7 @@
 
 - title: "Extrathymically generated regulatory T cells control mucosal TH2 inflammation."
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ*, Niec RE, Kim HY, Treuting P, Chinen T, Zheng Y, Umetsu DT, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22318520
@@ -80,17 +160,17 @@
 
 - title: "Regulatory T cells: mechanisms of differentiation and function."
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ*, Lu L-F, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22224781
-    display:  Annu Rev Immunol. 30:531-64. 2012.  
+    display:  Annu Rev Immunol. 30:531-64. 2012.
   highlight: 1
   news2:
 
 - title: "Role of conserved non-coding DNA elements in the Foxp3 gene in regulatory T-cell fate."
   image: dummy.png
-  description: 
+  description:
   authors: Zheng Y, Josefowicz S, Chaudhry A, Peng XP, Forbush K, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/20072126
@@ -98,10 +178,9 @@
   highlight: 1
   news2:
 
-
 - title: "Control of regulatory T cell lineage commitment and maintenance."
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ, Rudensky A.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19464984
@@ -109,10 +188,9 @@
   highlight: 1
   news2:
 
-
 - title: "Cutting edge: TCR stimulation is sufficient for induction of Foxp3 expression in the absence of DNA methyltransferase 1."
   image: dummy.png
-  description: 
+  description:
   authors: Josefowicz SZ, Wilson CB, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19454658
@@ -122,8 +200,8 @@
 
 - title: "Genome-wide analysis of Foxp3 target genes in developing and mature regulatory T cells."
   image: dummy.png
-  description: 
-  authors: Zheng Y, Josefowicz SZ, Kas A, Chu T-T, Gavin MA, Rudensky AY. 
+  description:
+  authors: Zheng Y, Josefowicz SZ, Kas A, Chu T-T, Gavin MA, Rudensky AY.
   link:
     url: https://www.ncbi.nlm.nih.gov/pubmed/17237761
     display:  Nature. 445(7130):936-40. 2007
