@@ -1,10 +1,10 @@
-- date: 01. January 2022
-  headline: "Happy New Year!"
+-date:
+  headline:
 
-- date: 01. September 2021
-  headline: "Michale, an IMP graduate student, and Chenyang, an BCMB graduate student, have joined J-lab"
-  
-- date: 09. March 2021
+- date: 01 September 2021
+  headline: "Michael, an IMP graduate student, and Chenyang, an BCMB graduate student, have joined J-lab"
+
+- date: 09 March 2021
   headline: "We opened our new webpage in Github"
 
 

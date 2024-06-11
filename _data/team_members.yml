@@ -10,11 +10,11 @@
 
 - name: Steven Josefowicz, PhD
   photo: steve.png
-  info: Principle Investigator
+  info: Principal Investigator
   email: szj2001@med.cornell.edu
-  number_educ: 2
-  education1: Steven Josefowicz is an Assistant Professor in the Department of Pathology and Laboratory Medicine, Division of Experimental Pathology. Steven has appointments in the Immunology and Microbial Pathogenesis (IMP) Program and the Physiology, Biophysics, and Systems Biology (PBSB) Program. After a BA from UC Berkeley and three years as a research tech working in the area of human immunology and HIV at UCSF, Steve conducted his graduate work with Alexander Rudensky at the University of Washington and Memorial Sloan Kettering Cancer Center. His PhD work focused on mechanisms of immune tolerance and the differentiation and function of regulatory T cells-- how our powerful immune systems can so effectively combat pathogens while tolerating our own tissues, food, and commensal microbiota. He then joined the laboratory of C. David Allis at The Rockefeller University to study epigenetic mechanisms underlying cellular differentiation and stimulation events in the immune system. Joining Weill Cornell Medicine in May 2017, ongoing work in his lab combines the fields of epigenetics and immunology to focus on questions of epigenetic regulation of transcription, especially as it pertains to rapid cellular responses, namely immune cell responses to stimulatory cues. The goal is to reveal fundamental epigenetic mechanisms regulating inflammation and their activity in pediatric and adult inflammatory disease.
-  education2: <a href="https://ceyda-durmaz-g9ww.squarespace.com/s/Josefowicz_Biosketch_201706.pdf">biosketch</a> 
+  number_educ: 1
+  education1: Steven Josefowicz is an Assistant Professor in the Department of Pathology and Laboratory Medicine, Division of Experimental Pathology. Steven has appointments in the Immunology and Microbial Pathogenesis (IMP) Program and the Physiology, Biophysics, and Systems Biology (PBSB) Program. After a BA from UC Berkeley and three years as a research tech working in the area of human immunology and HIV at UCSF, Steve conducted his graduate work with Alexander Rudensky at the University of Washington and Memorial Sloan Kettering Cancer Center. His PhD work focused on mechanisms of immune tolerance and the differentiation and function of regulatory T cells-- how our powerful immune systems can so effectively combat pathogens while tolerating our own tissues, food, and commensal microbiota. He then joined the laboratory of C. David Allis at The Rockefeller University to study epigenetic mechanisms underlying cellular differentiation and stimulation events in the immune system. Joining Weill Cornell Medicine in May 2017, his ongoing work in his lab combines the fields of epigenetics and immunology to focus on questions of epigenetic regulation of transcription, especially as it pertains to rapid cellular responses, namely immune cell responses to stimulatory cues. The goal is to reveal fundamental epigenetic mechanisms regulating inflammation and their activity in pediatric and adult inflammatory disease.
+  education2: <a href="https://ceyda-durmaz-g9ww.squarespace.com/s/Josefowicz_Biosketch_201706.pdf">biosketch</a>
   education3:
   education4:
 
@@ -23,8 +23,17 @@
   info: Postdoctorate Fellow
   email: alm2806@med.cornell.edu
   number_educ: 1
-  education1: Alexia joined the lab in April, 2018 after completing her PhD thesis at the University of Barcelona, Spain, and a short postdoctoral training at the University of Victoria, Canada. During that time, she was studying different mechanisms of epigenetic regulation, such as DNA and histone methylation, with especial interest in chromatin and transcriptional dynamics of neurons upon receiving activation signals or circadian cues. In the Josefowicz lab, Alexia is studying epigenetic mechanisms and chromatin structural changes controlling transcription in the immune response and their dysregulation in cancer.
+  education1: Alexia joined the lab in April 2018 after completing her PhD thesis at the University of Barcelona, Spain, and a short postdoctoral training at the University of Victoria, Canada. During that time, she was studying different mechanisms of epigenetic regulation, such as DNA and histone methylation, with a special interest in chromatin and transcriptional dynamics of neurons upon receiving activation signals or circadian cues. In the Josefowicz lab, Alexia is studying epigenetic mechanisms and chromatin structural changes controlling transcription in the immune response and their dysregulation in cancer.
   education2:
   education3:
   education4:
 
+- name: Lucinda Paddock
+  photo:
+  info: Research Specialist
+  email: lup4006@med.cornell.edu
+  number_educ: 1
+  education1: Lucinda joined the lab as an undergraduate intern while attending Harvey Mudd College, then started her full-time position in 2022. She is a computational biologist specializing in single-cell analysis, with a particular interest in studying epigenetic regulation of hematopoiesis in health and disease.
+  education2:
+  education3:
+  education4:
