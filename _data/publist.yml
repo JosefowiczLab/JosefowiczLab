@@ -1,12 +1,12 @@
-- title:
-  image: dummy.png
-  description:
-  authors:
-  link:
-    url:
-    display:
-  highlight: 1
-  news2:
+# - title:
+# image: dummy.png
+#  description:
+#  authors:
+#  link:
+#    url:
+#    display:
+#  highlight: 1
+#  news2:
 
 - title: "Microbial cancer immunotherapy reprograms hematopoiesis to enhance anti-tumor immunity"
   image: dummy.png
