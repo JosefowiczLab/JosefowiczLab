@@ -9,7 +9,6 @@ permalink: /
 contents to be updated soon !!!!!!!!!!!!!
 
 
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -56,4 +55,4 @@ contents to be updated soon !!!!!!!!!!!!!
 
 
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** 
+ **We are  looking for passionate new PhD students, postdocs, and masters students to join the team.**
