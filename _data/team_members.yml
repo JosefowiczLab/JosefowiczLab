@@ -29,7 +29,7 @@
   education4:
 
 - name: Lucinda Paddock
-  photo:
+  photo: dummy.png
   info: Research Specialist
   email: lup4006@med.cornell.edu
   number_educ: 1
