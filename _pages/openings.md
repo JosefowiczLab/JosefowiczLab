@@ -3,7 +3,7 @@ title: "Josefowicz Lab Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /openings
 ---
 
 # Open positions
