@@ -19,7 +19,7 @@
   education3:
   education4:
 
-- name: Lexi
+- name: Lexi Robbins
   photo: lexi.png
   info: Research Technician, Lab Manager
   email: ler3006@med.cornell.edu
@@ -28,3 +28,10 @@
   education2:
   education3:
   education4:
+
+- name: Jin Gyu Cheong
+  photo: jin.png
+  info: Former IMP Graduate Student
+  email: jic2016@med.cornell.edu
+  number_educ: 1
+  education1: Jingyu was born in Seoul, South Korea. He received his B.S. in Molecular Biotechnology from Konkuk University and M.S. in pharmaceutical bioscience from Seoul National University. He is now a Weill Cornell graduate student investigating epigenetic mechanisms in trained immunity.
