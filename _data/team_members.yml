@@ -43,4 +43,11 @@
   info: Senior Bioinformatics Analyst
   email: rer4011@med.cornell.edu
   number_educ: 1
+  education1:
+
+- name: Michelle Him Li
+  photo: dummy.png
+  info: Lab Technician
+  email: mvh4001@med.cornell.edu
+  number_educ: 1
   education1: 
