@@ -37,3 +37,10 @@
   education2:
   education3:
   education4:
+
+- name: Reshma Ramaiah
+  photo: dummy.png
+  info: Senior Bioinformatics Analyst
+  email: rer4011@med.cornell.edu
+  number_educ: 1
+  education1: 
