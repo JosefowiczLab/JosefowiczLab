@@ -1,5 +1,5 @@
 #- name:
-#  photo: rock.jpg
+#  photo: dummy.png
 #  info:
 #  email:
 #  number_educ:
@@ -30,6 +30,13 @@
   email: chj4004@med.cornell.edu
   number_educ: 1
   education1: Chenyang received her B.S. in biological sciences from Sichuan University and M.S. in pathobiology from University of Connecticut. After graduation, she worked as a research assistant for three years at Ragon Institute of MGH, MIT, Harvard, and Brigham and Women’s Hospital to study HIV/AIDS by developing and applying novel genetic and epigenetic tools to characterize viral reservoirs in HIV-1 elite controllers. Chenyang joined the Josefowicz Lab in July 2021 to investigate epigenetic regulation of transcription in rapid stimulation-induced immune cell responses.
+
+- name: Mythili Ketavarapu
+  photo: dummy.png
+  info: Tri-I CBM Graduater Student
+  email: mke4001@med.cornell.edu
+  number_educ: 1
+  education1: Mythili received her B.S. in Biochemistry/Molecular Biology from University of California, Santa Barbara in 2023. While completing her bachelor's degree, she worked as a researcher in the Ramani Lab at UC San Francisco for three years using computational methods to study chromatin remodeling and histone modifications regulating mammalian gene expression. She then began her PhD in the Tri-Institutional Computational Biology and Medicine program as an NSF graduate fellow. Mythili joined the Josefowicz Lab in May 2024 to apply and expand upon computational approaches to study epigenetics (co-advised by Dr. Christina Leslie), with a particular focus on the mechanisms underlying development and activation of immune populations.
 
 - name: Michael Bale
   photo: Michael.JPG
