@@ -15,14 +15,12 @@
   number_educ: 1
   education1: Andrew got his bachelors in Chemistry and Biochemistry from Seattle Pacific University. He got a job working in an cancer immunology lab, where he stayed for three years before deciding to pursue a PhD at Weill Cornell. Andrew joined the Josefowicz lab in 2018 to work on understanding the role of histone modifications in hematopoietic development.
 
-
 - name: Dughan Ahimovic
   photo: dughan.png
   info: IMP Graduate Student
   email: dja4001@med.cornell.edu
   number_educ: 1
   education1: Dughan grew up in the beautiful state of New Jersey and went on to receive a B.S. in Biomedical Engineering from Yale University. He then spent two years working in biotech before deciding to attend Weill Cornell’s IMP Program for graduate school. Dughan joined the Josefowicz Lab in June 2019 to study the function of histone modifications in rapid stimulation-induced gene expression and other epigenetically regulated processes in mammalian immunity.
-
 
 - name: Chenyang Jiang
   photo: Chenyang.JPG
@@ -33,7 +31,7 @@
 
 - name: Mythili Ketavarapu
   photo: dummy.png
-  info: Tri-I CBM Graduater Student
+  info: Tri-I CBM Graduate Student
   email: mke4001@med.cornell.edu
   number_educ: 1
   education1: Mythili received her B.S. in Biochemistry/Molecular Biology from University of California, Santa Barbara in 2023. While completing her bachelor's degree, she worked as a researcher in the Ramani Lab at UC San Francisco for three years using computational methods to study chromatin remodeling and histone modifications regulating mammalian gene expression. She then began her PhD in the Tri-Institutional Computational Biology and Medicine program as an NSF graduate fellow. Mythili joined the Josefowicz Lab in May 2024 to apply and expand upon computational approaches to study epigenetics (co-advised by Dr. Christina Leslie), with a particular focus on the mechanisms underlying development and activation of immune populations.
@@ -58,3 +56,10 @@
   email: vrl4001@med.cornell.edu
   number_educ: 1
   education1:
+
+- name: Muxue "Snow" Du
+  photo: dummy.png
+  info: IMP Graduate Student
+  email: mud4002@med.cornell.edu
+  number_educ: 1
+  education1: Muxue “Snow” received her B.S. in Biochemistry and Music from Muhlenberg College in 2021. Upon graduation, she worked as a technician in the Michael Glickman Lab at MSKCC for two years, where she studied the effect of treatment for multi-drug resistant tuberculosis on the gastrointestinal microbiota. She joined IMP in 2023 and joined the Josefowicz/Niec Lab in June 2024.
