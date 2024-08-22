@@ -28,15 +28,12 @@
   education3:
   education4:
 
-- name: Lucinda Paddock
-  photo: dummy.png
-  info: Research Specialist
-  email: lup4006@med.cornell.edu
-  number_educ: 1
-  education1: Lucinda joined the lab as an undergraduate intern while attending Harvey Mudd College, then started her full-time position in 2022. She is a computational biologist specializing in single-cell analysis, with a particular interest in studying epigenetic regulation of hematopoiesis in health and disease.
-  education2:
-  education3:
-  education4:
+#- name: Lucinda Paddock
+#  photo: dummy.png
+#  info: Research Specialist
+#  email: lup4006@med.cornell.edu
+#  number_educ: 1
+#  education1: Lucinda joined the lab as an undergraduate intern while attending Harvey Mudd College, then started her full-time position in 2022. She is a computational biologist specializing in single-cell analysis, with a particular interest in studying epigenetic regulation of hematopoiesis in health and disease.
 
 - name: Reshma Ramaiah
   photo: dummy.png
