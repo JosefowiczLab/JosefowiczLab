@@ -36,11 +36,11 @@
 #  education1: Lucinda joined the lab as an undergraduate intern while attending Harvey Mudd College, then started her full-time position in 2022. She is a computational biologist specializing in single-cell analysis, with a particular interest in studying epigenetic regulation of hematopoiesis in health and disease.
 
 - name: Reshma Ramaiah
-  photo: dummy.png
+  photo: reshma.jpg
   info: Senior Bioinformatics Analyst
   email: rer4011@med.cornell.edu
   number_educ: 1
-  education1:
+  education1: Reshma holds a Master’s degree in Bioinformatics from Boston University. At Genentech, she developed and optimized cloud-based genomics workflows, focusing on single-cell multiomics and spatial transcriptomics. Previously, she honed her skills through internships at the Broad Institute and Dana-Farber Cancer Institute. Her experience includes workflow development and cloud infrastructure, and she is passionate about machine learning and advancing multiome data analysis to accelerate scientific discoveries.
 
 - name: Michelle Him Li
   photo: michelle_li.jpg
