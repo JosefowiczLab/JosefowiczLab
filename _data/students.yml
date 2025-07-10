@@ -65,11 +65,8 @@
   education1: Muxue “Snow” received her B.S. in Biochemistry and Music from Muhlenberg College in 2021. Upon graduation, she worked as a technician in the Michael Glickman Lab at MSKCC for two years, where she studied the effect of treatment for multi-drug resistant tuberculosis on the gastrointestinal microbiota. She joined IMP in 2023 and joined the Josefowicz/Niec Lab in June 2024.
 
 - name: Francesca Foglino
- photo: francesca.jpeg
- info: Intern
- email: fef4005@med.cornell.edu
- number_educ: 1
- education1: Francesca received her B.S. in Biomedical Engineering from Columbia University in 2025. She has been involved with the Josefowicz Lab since 2024, where she focuses on applied machine learning for data integration and cross-study analysis of the HSPC datasets collected using the lab's novel PIE-seq method.
- education2:
- education3:
- education4:
+  photo: francesca.jpeg
+  info: Intern
+  email: fef4005@med.cornell.edu
+  number_educ: 1
+  education1: Francesca received her B.S. in Biomedical Engineering from Columbia University in 2025. She has been involved with the Josefowicz Lab since 2024, where she focuses on applied machine learning for data integration and cross-study analysis of the HSPC datasets collected using the lab's novel PIE-seq method.
